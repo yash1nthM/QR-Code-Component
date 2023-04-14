@@ -1,2 +1,5 @@
 # QR-Code-Component
-# QR-Code-Component  # Frontend Mentor - QR code component 
+ # Frontend Mentor - QR code component
+
+
+### Used Resources
