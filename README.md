@@ -8,6 +8,5 @@
 > For [styles](https://developer.mozilla.org/en-US/docs/Web/CSS).
 > For [fonts](https://fonts.google.com/specimen/Outfit)
 
+Thanks To FrontEnd Mentor To This [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-Thanks To FrontEnd Mentor To This [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-Here You Can View [Live](https://yash1nthm.github.io/QR-Code-Component/) this page is hosted using [GitHub Pages](https://pages.github.com/)
